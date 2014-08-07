@@ -1,2 +1,2 @@
 #include<iostream.h>
-hiii
+hiii;
